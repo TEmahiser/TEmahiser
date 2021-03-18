@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @TEmahiser
-- 👀 I’m interested in ... python, automation, development
-- 🌱 I’m currently learning ...python3
-- 💞️ I’m looking to collaborate on ...automation ideas
-- 📫 How to reach me ...reach me on here!
+- 👀 I’m interested in python, automation, SQL, Linux, data science.
+- 🌱 I’m currently working through Automate the Boring Stuff
+- 💞️ I’m looking to collaborate on data, automation.
 
 <!---
 TEmahiser/TEmahiser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
