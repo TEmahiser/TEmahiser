@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TEmahiser
 - 👀 I’m interested in python, automation, SQL, Linux, data science.
-- 🌱 I’m currently working through Automate the Boring Stuff
+- 🌱 I’m currently working through Scientific Computing with Python at freeCodeCamp
 - 💞️ I’m looking to collaborate on data, automation.
 
 <!---
