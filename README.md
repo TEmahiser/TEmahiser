@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TEmahiser
 - 👀 I’m interested in python, automation, SQL, Linux, data science.
-- 🌱 I’m currently working through Scientific Computing with Python at freeCodeCamp
-- 💞️ I’m looking to collaborate on data, automation.
+- 🌱 I’m currently working through Learn Python3 the Hard Way
+- 💞️ I’m looking to collaborate on seriously anything
 
 <!---
 TEmahiser/TEmahiser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
