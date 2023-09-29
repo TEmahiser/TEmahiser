@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TEmahiser
 - 👀 I’m interested in python, automation, SQL, Linux, data science.
-- 🌱 I’m currently working through Learn Python3 the Hard Way
+- 🌱 I’m currently working on analyzing my own fitness data using python and jupyter notebooks
 - 💞️ I’m looking to collaborate on seriously anything
 
 <!---
